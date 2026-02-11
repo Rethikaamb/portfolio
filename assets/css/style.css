@@ -506,10 +506,6 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
-.service-icon-box img {
-  filter: brightness(0) saturate(80%) invert(79%) sepia(20%) saturate(800%) hue-rotate(132deg) brightness(80%) contrast(93%);
-}
-
 
 /**
  * #service 
