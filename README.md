@@ -1,3 +1,3 @@
 # Personal Portfolio
-# forked from vcard-personal-portfolio
+forked from vcard-personal-portfolio
 
